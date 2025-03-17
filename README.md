@@ -58,15 +58,5 @@ Si deseas contribuir al proyecto, sigue estos pasos:
    ```
 5. Abre un Pull Request en GitHub.
 
-## Autores
 
-- [Nombre del autor 1](https://github.com/autor1)
-- [Nombre del autor 2](https://github.com/autor2)
 
-## Agradecimientos
-
-- [Nombre de la persona o entidad a la que deseas agradecer]
-
-## Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
